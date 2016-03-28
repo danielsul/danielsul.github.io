@@ -9,10 +9,8 @@ baseurl: '/'
 author:
   name: 'Daniel Sul'
   email: daniel_sul@hotmail.com
-  twitter_username: danielsul
-  facebook_username: daniel.sul
-  github_username:  danielsul
-  linkedin_username:  
+  instagram_username: danielsul
+  vimeo_username: danielsul
 
 defaults:
   -

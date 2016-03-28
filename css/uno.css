@@ -953,8 +953,8 @@ h5,
 h5 {
 	margin-top: .8em;
 	margin-bottom: .4em;
-	font-family: "Roboto Slab", serif;
-	font-weight: lighter;
+	font-family: "Helvetica Neue", serif;
+	font-weight: initial;
 	color: #333333;
 	-webkit-font-smoothing: antialiased; }
 
@@ -1067,6 +1067,11 @@ pre {
 	font-size: 1.2em;
 	font-weight: lighter;
 	color: #999999; }
+
+.blog-button {
+    font-family: "Helvetica Neue";
+    font-weight: initial;
+}
 
 .block-heading {
 	display: inline;
@@ -1218,7 +1223,7 @@ hr {
 	max-width: 530px; }
 
 .panel-cover--overlay {
-	display: block;
+	display: none;
 	position: absolute;
 	z-index: 0;
 	top: 0;
@@ -1308,7 +1313,7 @@ hr {
 
 .btn, .navigation__item a {
 	padding: 10px 20px;
-	border: 1px solid #e25440;
+	border: none;
 	border-radius: 20px;
 	font-size: .9em;
 	font-weight: bold;
@@ -1388,8 +1393,6 @@ nav {
 			border-color: #FFF;
 			opacity: 1; }
 
-.navigation--social {
-	margin-left: 1.5em; }
 	.navigation--social a {
 		padding: 6px 8px 6px 9px; }
 		.navigation--social a .label {

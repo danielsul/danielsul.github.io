@@ -1,0 +1,7 @@
+---
+title:  "Kyudo"
+date:   2016-03-27 03:39:23
+categories: [reportage]
+tags: [reportage, kyudo, bw]
+---
+Reportage about the first european Kyudo school located in Bareggio, Italy.
